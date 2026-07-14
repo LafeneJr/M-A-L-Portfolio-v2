@@ -11,7 +11,7 @@ export const PROJECTS: Project[] = [
     description:
       "AI-powered travel companion that helps users discover destinations, build personalized itineraries, and plan unforgettable journeys.",
 
-    image: "/src/assets/projects/travelbrianai.png",
+    image: "/public/projects/travelbrianai.png",
 
     featured: true,
 
@@ -70,7 +70,7 @@ export const PROJECTS: Project[] = [
     description:
       "A premium accounting website focused on trust, professionalism and modern business presentation.",
 
-    image: "/src/assets/projects/ldaliyu.png",
+    image: "/public/projects/ldaliyu.png",
 
     featured: false,
 
@@ -108,7 +108,7 @@ export const PROJECTS: Project[] = [
     description:
       "Modern fashion storefront featuring a responsive shopping experience and bold editorial-inspired layouts.",
 
-    image: "/src/assets/projects/streetwearhub.png",
+    image: "/public/projects/streetwearhub.png",
 
     featured: false,
 
@@ -146,7 +146,7 @@ export const PROJECTS: Project[] = [
     description:
       "Explore countries around the world using live REST API data with search, filters and detailed information.",
 
-    image: "/src/assets/projects/countryinfo.png",
+    image: "/public/projects/countryinfo.png",
 
     featured: false,
 
@@ -185,7 +185,7 @@ export const PROJECTS: Project[] = [
     description:
       "An online bookstore providing an engaging shopping experience with authentication and product browsing.",
 
-    image: "/src/assets/projects/ebook.png",
+    image: "/public/projects/ebook.png",
 
     featured: false,
 
