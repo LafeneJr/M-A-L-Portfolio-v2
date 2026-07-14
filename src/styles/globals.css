@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+
+    --background:#050816;
+
+    --surface:#0b1020;
+
+    --surface-light:#121a2f;
+
+    --border:rgba(255,255,255,.08);
+
+    --primary:#6E63FF;
+
+    --secondary:#8E7BFF;
+
+    --text:#F5F7FA;
+
+    --muted:#94A3B8;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    margin:0;
+
+    background:var(--background);
+
+    color:var(--text);
+
+    font-family:Inter,sans-serif;
+
+    overflow-x:hidden;
+}
+
+/* Hide scrollbar */
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  scrollbar-width: none;
+
+  -ms-overflow-style: none;
+}

@@ -1,0 +1,37 @@
+.signature-svg path {
+    fill: none;
+
+    stroke: #d8c8ff;
+
+    stroke-width: 2;
+
+    stroke-linecap: round;
+
+    stroke-linejoin: round;
+
+    stroke-dasharray: 1000;
+
+    stroke-dashoffset: 1000;
+
+    animation: drawSignature 2.4s ease forwards;
+}
+
+.signature-svg path:nth-child(1){animation-delay:.05s;}
+.signature-svg path:nth-child(2){animation-delay:.10s;}
+.signature-svg path:nth-child(3){animation-delay:.15s;}
+.signature-svg path:nth-child(4){animation-delay:.20s;}
+.signature-svg path:nth-child(5){animation-delay:.25s;}
+.signature-svg path:nth-child(6){animation-delay:.30s;}
+.signature-svg path:nth-child(7){animation-delay:.35s;}
+.signature-svg path:nth-child(8){animation-delay:.40s;}
+.signature-svg path:nth-child(9){animation-delay:.45s;}
+.signature-svg path:nth-child(10){animation-delay:.50s;}
+.signature-svg path:nth-child(11){animation-delay:.55s;}
+
+@keyframes drawSignature {
+
+    to{
+
+        stroke-dashoffset:0;
+    }
+}
