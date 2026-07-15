@@ -1,10 +1,10 @@
 import type { Project } from "../projects-constant/project-types";
 
-import travelbrain from "../../assets/projects/travelbrianai.png";
-import ldAliyu from "../../assets/projects/ldaliyu.png";
-import streetwear from "../../assets/projects/streetwearhub.png";
-import countryinfo from "../../assets/projects/countryinfo.png";
-import ebook from "../../assets/projects/ebook.png";
+import travelbrain from "../../assets/projects/travelbrianai.webp";
+import ldAliyu from "../../assets/projects/ldaliyu.webp";
+import streetwear from "../../assets/projects/streetwearhub.webp";
+import countryinfo from "../../assets/projects/countryinfo.webp";
+import ebook from "../../assets/projects/ebook.webp";
 
 export const PROJECTS: Project[] = [
   {

@@ -3,7 +3,7 @@ import { RiDownload2Line } from "react-icons/ri";
 
 import { hero } from "../../constants/portfolio";
 
-import profile from "../../assets/profile.png";
+import profile from "../../assets/profile.webp";
 
 export const Hero = () => {
   return (

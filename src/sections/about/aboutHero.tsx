@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-import workspace from "../../assets/workspace.png";
+import workspace from "../../assets/workspace.webp";
 
 import { about } from "../../constants/portfolio";
 import {
