@@ -9,7 +9,7 @@ import {
 
 import { featuredProject } from "../../constants/portfolio";
 
-import mockup from "../../assets/travelbrian.png";
+import mockup from "../../assets/travelbrain.png";
 
 const techIcons = {
   "Next.js": {
