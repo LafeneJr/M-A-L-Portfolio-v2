@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-import Signature from "../../../assets/signature.png";
+import Signature from "../../../assets/signature.webp";
 
 export const AnimatedSignature = () => {
   return (
