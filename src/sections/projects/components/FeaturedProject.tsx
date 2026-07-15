@@ -157,6 +157,8 @@ export const FeaturedProject = ({
             relative
 
             overflow-hidden
+
+            aspect-16/10
           "
         >
           <motion.img
@@ -169,8 +171,8 @@ export const FeaturedProject = ({
             src={project.image}
             alt={project.title}
             className="
-              h-fit
-              w-fit
+              h-full
+              w-full
 
               object-cover
             "
