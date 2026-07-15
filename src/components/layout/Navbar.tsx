@@ -3,7 +3,7 @@ import { Link, NavLink } from "react-router-dom";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
 import { AnimatePresence, motion } from "framer-motion";
 
-import logo from "../../assets/logo.png";
+import logo from "../../assets/logo.webp";
 
 const links = [
   {
