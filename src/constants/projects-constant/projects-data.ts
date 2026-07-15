@@ -1,5 +1,11 @@
 import type { Project } from "../projects-constant/project-types";
 
+import travelbrain from "../../assets/projects/travelbrianai.png";
+import ldAliyu from "../../assets/projects/ldaliyu.png";
+import streetwear from "../../assets/projects/streetwearhub.png";
+import countryinfo from "../../assets/projects/countryinfo.png";
+import ebook from "../../assets/projects/ebook.png";
+
 export const PROJECTS: Project[] = [
   {
     id: "travelbrain-ai",
@@ -11,7 +17,7 @@ export const PROJECTS: Project[] = [
     description:
       "AI-powered travel companion that helps users discover destinations, build personalized itineraries, and plan unforgettable journeys.",
 
-    image: "/public/projects/travelbrianai.png",
+    image: travelbrain,
 
     featured: true,
 
@@ -70,7 +76,7 @@ export const PROJECTS: Project[] = [
     description:
       "A premium accounting website focused on trust, professionalism and modern business presentation.",
 
-    image: "/public/projects/ldaliyu.png",
+    image: ldAliyu,
 
     featured: false,
 
@@ -108,7 +114,7 @@ export const PROJECTS: Project[] = [
     description:
       "Modern fashion storefront featuring a responsive shopping experience and bold editorial-inspired layouts.",
 
-    image: "/public/projects/streetwearhub.png",
+    image: streetwear,
 
     featured: false,
 
@@ -146,7 +152,7 @@ export const PROJECTS: Project[] = [
     description:
       "Explore countries around the world using live REST API data with search, filters and detailed information.",
 
-    image: "/public/projects/countryinfo.png",
+    image: countryinfo,
 
     featured: false,
 
@@ -185,7 +191,7 @@ export const PROJECTS: Project[] = [
     description:
       "An online bookstore providing an engaging shopping experience with authentication and product browsing.",
 
-    image: "/public/projects/ebook.png",
+    image: ebook,
 
     featured: false,
 
