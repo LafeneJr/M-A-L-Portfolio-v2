@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { RiDoubleQuotesL } from "react-icons/ri";
 
-import signature from "../../../assets/signature.png";
+import signature from "../../../assets/signature.webp";
 
 export const ContactCTA = () => {
   return (
