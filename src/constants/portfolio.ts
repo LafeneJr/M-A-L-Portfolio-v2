@@ -35,9 +35,9 @@ export const featuredProject = {
 
   button: "View Project",
 
-  liveDemo: "#",
+  liveDemo: "https://travelbrain-ai-liard.vercel.app",
 
-  GitHub: "https://github.com/LafeneJr",
+  GitHub: "https://github.com/LafeneJr/TRAVELBRAIN-AI",
 };
 
 export const about = {

@@ -56,12 +56,12 @@ export const PROJECTS: Project[] = [
     links: {
       github: {
         label: "GitHub",
-        href: "https://github.com/LafeneJr",
+        href: "https://github.com/LafeneJr/TRAVELBRAIN-AI",
       },
 
       liveDemo: {
         label: "Live Demo",
-        href: "#",
+        href: "https://travelbrain-ai-liard.vercel.app/",
       },
     },
   },
