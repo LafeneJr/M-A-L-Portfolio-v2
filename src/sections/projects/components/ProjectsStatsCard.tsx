@@ -107,7 +107,7 @@ export const ProjectsStatsCard = ({
 
         <div>
             <p className="text-sm text-white/45">
-            Total Projects
+            Total Personal Projects
             </p>
         </div>
         </div>

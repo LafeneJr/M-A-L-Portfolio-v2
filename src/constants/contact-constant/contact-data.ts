@@ -42,7 +42,7 @@ export const CONTACT_HEADER = {
   ],
 
   description:
-    "Whether you're building an AI platform, SaaS product, business website, or a full-stack application, I'd love to hear about your idea and help bring it to life.",
+    "Whether you're building an AI platform, SaaS product, business website, I'd love to hear about your idea and help bring it to life.",
 };
 
 

@@ -1,5 +1,5 @@
 export const hero = {
-  badge: "FULL-STACK TYPESCRIPT DEVELOPER",
+  badge: "FRONTEND DEVELOPER",
 
   title: [
     "Muhammad\n",
@@ -9,11 +9,7 @@ export const hero = {
   subtitle:
     "Crafting intelligent digital experiences.",
 
-  button: "Download Resume",
-
-  available: true,
-
-  status: "Available for freelance & full-time",
+  button: "Download Resume",  
 };
 
 export const featuredProject = {
@@ -52,39 +48,29 @@ export const about = {
   highlight: "experiences.",
 
   description:
-    "I'm a Full-Stack TypeScript developer passionate about building beautiful products that solve real-world problems. I enjoy designing fast, scalable applications with thoughtful user experiences.",
-
-  available: true,
-
-  status: "Available for work",
-
-  location: "Nigeria",
-
-  experience: "2+ Years",
-
-  role: "Full-Stack Developer",
+    "I'm a frontend developer passionate about crafting modern, intuitive web experiences that blend clean design with thoughtful functionality. I enjoy building products that are responsive, accessible, and genuinely enjoyable to use.",  
 };
 
 export const aboutTimeline = [
   {
     year: "2026 – Present",
-    title: "Full-Stack Developer",
-    company: "TravelBrain AI • Personal Project",
+    title: "Web Development",
+    company: "TravelBrain AI",
     description:
-      "Designing and building an AI-powered travel platform using React, TypeScript, Express, PostgreSQL, and modern cloud architecture.",
+      "Designing and building an AI-powered travel platform using Next, TypeScript, Express, PostgreSQL, and modern cloud architecture.",
     current: true,
   },
   {
     year: "2025",
     title: "Huawei ICT Academy",
-    company: "Networking & Routing",
+    company: "HCIA DATACOM • Networking & Routing",
     description:
       "Completed hands-on networking labs covering routing, switching, IP addressing, and enterprise network design.",
     current: false,
   },
   {
     year: "2024",
-    title: "Full-Stack Development",
+    title: "Web Development",
     company: "Personal Projects",
     description:
       "Built modern web applications with React, TypeScript, Node.js, Express, and PostgreSQL while developing a strong frontend foundation.",
@@ -170,7 +156,7 @@ export const techStack = [
 export const aboutStats = [
   {
     value: "5+",
-    label: "Projects Completed",
+    label: "Personal Projects Completed",
   },
   {
     value: "8+",
