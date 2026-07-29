@@ -3,10 +3,7 @@ import { motion } from "framer-motion";
 import workspace from "../../assets/workspace.webp";
 
 import { about } from "../../constants/portfolio";
-import {
-  RiCalendar2Line,
-  RiCodeSSlashLine,
-  RiMapPin2Line,
+import {  
   RiFlashlightLine,
   RiStackLine,
   RiMedalLine,
@@ -328,141 +325,7 @@ export const AboutHero = () => {
                 object-cover
                 "
               />
-
-              {/* Status */}
-
-              <div
-                className="
-                absolute
-                top-6
-                right-2
-
-                md:right-8
-
-                rounded-2xl
-
-                border
-                border-white/10
-
-                backdrop-blur-lg
-
-                px-2
-                py-2
-                "
-              >
-                <div className="flex items-center gap-3">
-                  <span
-                    className="
-                    w-2
-                    h-2
-                    rounded-full
-                    bg-emerald-400
-                    "
-                  />
-
-                  <span>
-                    {about.status}
-                  </span>
-                </div>
-              </div>
-
-              {/* Bottom Bar */}
-
-              <div
-                className="
-                absolute
-
-                left-6
-                right-6
-                bottom-2
-
-                md:bottom-4
-                
-
-                rounded-2xl
-
-                border
-                border-white/10
-                
-                backdrop-blur-lg
-
-                grid
-                grid-cols-3                
-                
-
-                divide-x
-                divide-white/10
-                "
-              >
-                <div className="p-5">
-                  <div className="flex items-center gap-1">
-                    <RiMapPin2Line
-                      className="
-                        hidden
-                        md:flex
-                        text-indigo-400
-                        text-lg
-                      "
-                    />
-
-                    <p className="text-white font-medium">
-                      {about.location}
-                    </p>
-                  </div>
-
-                  <p className="text-sm text-white/50 mt-2 md:ml-5">
-                    Location
-                  </p>
-                </div>
-
-                <div className="p-5">
-                  <div className="flex items-center gap-1">
-                    <RiCalendar2Line
-                      className="
-                        hidden
-                        md:flex
-                        text-indigo-400
-                        text-lg
-                      "
-                    />
-
-                    <p className="text-white font-medium">
-                      {about.experience}
-                    </p>
-                  </div>
-
-                  <p className="text-sm text-white/50 mt-2 md:ml-3">
-                    Experience
-                  </p>
-                </div>
-
-                <div className="p-5">
-                  <div className="flex items-center md:gap-2">
-                    <RiCodeSSlashLine
-                      className="
-                        hidden
-                        md:flex
-                        text-indigo-400
-                        text-lg
-                      "
-                    />
-
-                    <p className="text-white font-medium">
-                      {about.role}
-                    </p>
-                  </div>
-
-                  <p className="text-sm text-white/50 mt-2">
-                    <span className="md:hidden ml-5">
-                      Skill
-                    </span>
-
-                    <span className="hidden md:inline ml-4">
-                      Specialization
-                    </span>
-                  </p>
-                </div>
-              </div>
+                            
             </div>
           </motion.div>
         </div>
