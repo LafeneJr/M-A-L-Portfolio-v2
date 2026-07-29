@@ -48,7 +48,7 @@ const socials = [
   },
   {
     icon: RiLinkedinBoxFill,
-    href: "https://www.linkedin.com/in/muhammad-aliyu-lafene-b35763261/",
+    href: "https://www.linkedin.com/in/lafenejr",
     label: "LinkedIn",
   },
   {

@@ -62,7 +62,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
   {
     name: "LinkedIn",
     username: "Muhammad Aliyu Lafene",
-    href: "https://www.linkedin.com/in/muhammad-aliyu-lafene-b35763261",
+    href: "https://www.linkedin.com/in/lafenejr",
     icon: RiLinkedinBoxLine,
   },
   {
