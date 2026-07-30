@@ -115,9 +115,9 @@ export const Hero = () => {
               whileHover={{ scale: 1.03 }}
               whileTap={{ scale: .96 }}
 
-              href="/muhammad-aliyu-lafene-junior-frontend-resume.pdf"
+              href="/muhammad-aliyu-lafene-frontend-dev-resume.pdf"
 
-              download="muhammad-aliyu-lafene-junior-frontend-resume.pdf"
+              download="muhammad-aliyu-lafene-frontend-dev-resume.pdf"
 
               className="
                 mt-10
