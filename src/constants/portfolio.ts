@@ -1,5 +1,5 @@
 export const hero = {
-  badge: "FRONTEND DEVELOPER",
+  badge: "SOFTWARE ENGINEER",
 
   title: [
     "Muhammad\n",
@@ -48,7 +48,7 @@ export const about = {
   highlight: "experiences.",
 
   description:
-    "I'm a frontend developer passionate about crafting modern, intuitive web experiences that blend clean design with thoughtful functionality. I enjoy building products that are responsive, accessible, and genuinely enjoyable to use.",  
+    "I'm a software engineer who enjoys turning ideas into thoughtful digital products. I build applications that are intuitive, scalable, and designed to solve real problems through clean engineering and purposeful design.",  
 };
 
 export const aboutTimeline = [

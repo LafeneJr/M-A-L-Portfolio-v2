@@ -3,7 +3,7 @@ import { RiDownload2Line } from "react-icons/ri";
 
 import { hero } from "../../constants/portfolio";
 
-import profile from "../../assets/profile.webp";
+import profile from "../../assets/profile1.webp";
 
 export const Hero = () => {
   return (
@@ -37,7 +37,7 @@ export const Hero = () => {
             initial={{ opacity: 0, y: 40 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: .8 }}
-            className=""            
+            className="pl-5"            
           >
             {/* Badge */}
 
@@ -193,7 +193,7 @@ export const Hero = () => {
               max-w-sm
               md:max-w-md
               xl:max-w-lg           
-              lg:h-130            
+              h-fit
 
               rounded-[34px]
 
